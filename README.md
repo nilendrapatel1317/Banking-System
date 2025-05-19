@@ -1,0 +1,28 @@
+#Banking Management System
+
+##Screenshots
+
+![banking (1)](https://github.com/user-attachments/assets/654073c9-0768-4238-9cec-4de738e01ca1)
+![banking (2)](https://github.com/user-attachments/assets/a47dae91-7df2-49d3-902b-fa589f6891e5)
+![banking (3)](https://github.com/user-attachments/assets/cccad7cd-1a2e-431f-aa62-9cd46df067b5)
+![banking (4)](https://github.com/user-attachments/assets/6d69291d-2c69-4a78-b16b-43bd4f59d9fb)
+![banking (5)](https://github.com/user-attachments/assets/453a1fd0-38a3-4833-b7fc-a2a094abe661)
+![banking (6)](https://github.com/user-attachments/assets/60fa1f00-01b7-4f3e-ba11-6859d60fd3ee)
+![banking (7)](https://github.com/user-attachments/assets/02be9063-ea4c-4873-a34b-1cf7b6050175)
+![banking (8)](https://github.com/user-attachments/assets/b5ac57e2-727d-4634-aeab-c7a3a37a4fc8)
+![banking (9)](https://github.com/user-attachments/assets/f686cb2d-f923-4b10-9c25-bdf2e05951b0)
+![banking (10)](https://github.com/user-attachments/assets/177b3962-4bdf-402c-beb9-4d9cc5b8d22a)
+![banking (11)](https://github.com/user-attachments/assets/bf9c8c1f-68a2-417e-b36d-a48a6160407d)
+![banking (12)](https://github.com/user-attachments/assets/1994c62f-28d5-45f9-af20-38ca9a6a475f)
+![banking (13)](https://github.com/user-attachments/assets/85e1dc11-9f85-4ac8-b25e-ff3ad72e857c)
+![banking (14)](https://github.com/user-attachments/assets/846f1a32-8b42-4244-a8da-bcc5c46b5a37)
+![banking (15)](https://github.com/user-attachments/assets/e095404d-dd8b-4aea-b243-b502f0db7ad7)
+![banking (16)](https://github.com/user-attachments/assets/767e0050-5e62-44c7-a48d-e07c993cf9cc)
+![banking (17)](https://github.com/user-attachments/assets/b3aa88f7-095c-40d5-82c1-bfbb6921b673)
+![banking (18)](https://github.com/user-attachments/assets/f59db09c-b70d-48b0-b1c3-0c614e0d1152)
+![banking (19)](https://github.com/user-attachments/assets/bb7ddf52-63b2-498e-9625-f5590ecb84e9)
+![banking (20)](https://github.com/user-attachments/assets/999cfc1e-d33e-4be0-a363-b90705d4c5ca)
+![banking (21)](https://github.com/user-attachments/assets/dcb0aa13-82d3-4392-9aed-53469725e1f2)
+![banking (22)](https://github.com/user-attachments/assets/519488f6-1e8c-4376-8ed8-8d0fd79bc112)
+![banking (23)](https://github.com/user-attachments/assets/ee45f33d-5d95-4774-86f1-45f821434b11)
+![banking (24)](https://github.com/user-attachments/assets/165368fc-5ca1-4692-941c-44448c8487d7)
